@@ -1,22 +1,64 @@
-DSA Funcdamentals : Control Flow
+# 📘 DSA Fundamentals: Java Control Flow & Loops
 
----> IF ELSE PROBLEMS <---
+This repository contains beginner-friendly Java programs designed to help understand the core fundamentals of **Control Flow (If-Else)** and **Looping Constructs** in Data Structures and Algorithms (DSA). Each file tackles a specific logical problem using clean and simple Java syntax.
 
-1. ifelse.java = Write a program to find maximum between three numbers.
-2. checkdgtalpha.java = Write a java program to input a character from user and check whether given character is alphabet, digit or special character.
-3. Noteprob.java = Write a java program to input amount from user and print minimum number of notes (Rs. 500, 100, 50, 20, 10, 5, 2, 1) required for the amount.
-4. sideoftrngle.java =  Write a java program to input sides of a triangle and check whether a triangle is equilateral, scalene or isosceles triangle.
-5. elecunitchrg.java = Write a java program to input electricity unit charge and calculate the total electricity bill according to the given condition:
-// For first 50 units Rs. 0.50/unit
-// For next 100 units Rs. 0.75/unit
-// For next 100 units Rs. 1.20/unit
-// For unit above 250 Rs. 1.50/unit
-// An additional surcharge of 20% is added to the bill.
+---
 
----> LOOP 1 PROBLEMS <---
-6. loop1.java = Write a java program to input a number and find the sum of first and last digit of the number using a for loop. 
-7. q2loop.java = Write a java program to input a number from the user and calculate product of its digits.
-8. q3loop.java = Write a java program to input number from user and check number is palindrome or not using loop. 
-9. q4loop.java = Write a java program to find power of a number using for loop.
-10. q5loop.java = Write a java program to print Fibonacci series up to n terms using loop.
+## 📁 Folder Structure
+
+```bash
+.
+├── ifelse.java
+├── checkdgtalpha.java
+├── Noteprob.java
+├── sideoftrngle.java
+├── elecunitchrg.java
+├── loop1.java
+├── q2loop.java
+├── q3loop.java
+├── q4loop.java
+└── q5loop.java
+
+🧠 Problems Covered
+🔹 Control Flow (If-Else)
+ifelse.java
+➤ Write a program to find the maximum between three numbers.
+
+checkdgtalpha.java
+➤ Input a character and check whether it's an alphabet, digit, or special character.
+
+Noteprob.java
+➤ Input an amount and print the minimum number of currency notes (₹500, ₹100, ₹50, ₹20, ₹10, ₹5, ₹2, ₹1) required.
+
+sideoftrngle.java
+➤ Input three sides of a triangle and classify it as Equilateral, Isosceles, or Scalene.
+
+elecunitchrg.java
+➤ Input electricity unit charge and calculate the bill with the following rules:
+
+First 50 units: ₹0.50/unit
+
+Next 100 units: ₹0.75/unit
+
+Next 100 units: ₹1.20/unit
+
+Above 250 units: ₹1.50/unit
+
+20% surcharge added to the total.
+
+🔹 Loop 1 Problems
+loop1.java
+➤ Input a number and find the sum of its first and last digits using a loop.
+
+q2loop.java
+➤ Input a number and calculate the product of its digits.
+
+q3loop.java
+➤ Input a number and check if it is a palindrome using a loop.
+
+q4loop.java
+➤ Find the power of a number using a loop (e.g., a^b).
+
+q5loop.java
+➤ Print the Fibonacci series up to n terms using a loop.
 
