@@ -1,3 +1,6 @@
+
+// Write a java program to input sides of a triangle and check whether a triangle is equilateral, scalene or isosceles triangle.
+
 import java.util.Scanner;
 
 public class sideoftrngle {

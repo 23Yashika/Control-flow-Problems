@@ -1,3 +1,6 @@
+// Write a program to find maximum between three numbers.
+
+
 import java.util.Scanner;
 
 public class ifelse {

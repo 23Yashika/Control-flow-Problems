@@ -1,3 +1,5 @@
+// Write a java program to input a character from user and check whether given character is alphabet, digit or special character.
+
 import java.util.Scanner;
 
 public class checkdgtalpha {

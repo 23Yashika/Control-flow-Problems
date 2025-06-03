@@ -1,4 +1,4 @@
-// Write a C++ program to input a number from the user and calculate product of its digits.
+// Write a java program to input a number from the user and calculate product of its digits.
 
 import java.util.Scanner;
 
