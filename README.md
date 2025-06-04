@@ -1,14 +1,22 @@
- DSA Fundamentals: Java Control Flow & Loops
-Welcome to the DSA Fundamentals repository!
-This collection of beginner-friendly Java programs is designed to build a strong foundation in Control Flow (if-else) and Looping Constructs — essential topics for Data Structures & Algorithms (DSA) and coding interviews.
+# 📘 **DSA Fundamentals: Java Control Flow & Loops**
 
-🧠 What You'll Learn
-✅ If-Else Conditionals
-✅ Looping Techniques (for, while)
-✅ Problem-Solving with Numbers
-✅ Foundational DSA Concepts in Java
+Welcome to the **DSA Fundamentals** repository!  
+This collection of beginner-friendly **Java programs** is designed to build a strong foundation in **Control Flow (if-else)** and **Looping Constructs** — essential topics for Data Structures & Algorithms (DSA) and coding interviews.
 
-📁 Folder Structure
+---
+
+## 🧠 **What You'll Learn**
+
+✅ **If-Else Conditionals**  
+✅ **Looping Techniques** (`for`, `while`)  
+✅ **Problem-Solving with Numbers**  
+✅ **Foundational DSA Concepts in Java**
+
+---
+
+## 📁 **Folder Structure**
+
+
 .
 ├── ifelse.java
 ├── checkdgtalpha.java
