@@ -1,4 +1,5 @@
 //Write a java program to input a number from the user and check whether the given number is a strong number or not.
+
 import java.util.Scanner;
 
 public class q16loop {
