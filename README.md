@@ -24,7 +24,15 @@ This collection of beginner-friendly **Java programs** is designed to build a st
 ├── sideoftrngle.java
 ├── elecunitchrg.java
 ├── loop1.java
-├── q2loop.java to q17loop.java
+├── q2loop.java
+├── q3loop.java
+├── ...
+├── q17loop.java
+├── Star1.java
+├── Star2.java
+├── Star3.java
+├── Star4.java
+├── Star5.java
 
 Each file is self-contained and solves one logical problem using **clean Java code**.
 
@@ -86,4 +94,14 @@ Each file is self-contained and solves one logical problem using **clean Java co
 | `q17loop.java` | Print all **Strong numbers** from 1 to `n` |
 
 ---
+
+## 🌟 Square & Rhombus Star Pattern Problems
+
+| File        | Pattern Description                                      |
+|-------------|----------------------------------------------------------|
+| `Star1.java` | Print a **Square Star** (`*`) pattern of `N` rows         |
+| `Star2.java` | Print a **Hollow Square Star** (`*`) pattern of `N` rows  |
+| `Star3.java` | Print a **Hollow Square with Diagonals** star pattern     |
+| `Star4.java` | Print a **Rhombus Star** pattern of `N` rows              |
+| `Star5.java` | Print an **Inverted/Mirrored Rhombus Star** pattern       |
 
