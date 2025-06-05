@@ -1,12 +1,22 @@
-# 📘 DSA Fundamentals: Java Control Flow & Loops
+# 📘 **DSA Fundamentals: Java Control Flow & Loops**
 
-This repository contains beginner-friendly Java programs designed to help understand the core fundamentals of **Control Flow (If-Else)** and **Looping Constructs** in Data Structures and Algorithms (DSA). Each file tackles a specific logical problem using clean and simple Java syntax.
+Welcome to the **DSA Fundamentals** repository!  
+This collection of beginner-friendly **Java programs** is designed to build a strong foundation in **Control Flow (if-else)** and **Looping Constructs** — essential topics for Data Structures & Algorithms (DSA) and coding interviews.
 
 ---
 
-## 📁 Folder Structure
+## 🧠 **What You'll Learn**
 
-```bash
+✅ **If-Else Conditionals**  
+✅ **Looping Techniques** (`for`, `while`)  
+✅ **Problem-Solving with Numbers**  
+✅ **Foundational DSA Concepts in Java**
+
+---
+
+## 📁 **Folder Structure**
+
+
 .
 ├── ifelse.java
 ├── checkdgtalpha.java
@@ -14,51 +24,66 @@ This repository contains beginner-friendly Java programs designed to help unders
 ├── sideoftrngle.java
 ├── elecunitchrg.java
 ├── loop1.java
-├── q2loop.java
-├── q3loop.java
-├── q4loop.java
-└── q5loop.java
+├── q2loop.java to q17loop.java
 
-🧠 Problems Covered
-🔹 Control Flow (If-Else)
-ifelse.java
-➤ Write a program to find the maximum between three numbers.
+Each file is self-contained and solves one logical problem using **clean Java code**.
 
-checkdgtalpha.java
-➤ Input a character and check whether it's an alphabet, digit, or special character.
+---
 
-Noteprob.java
-➤ Input an amount and print the minimum number of currency notes (₹500, ₹100, ₹50, ₹20, ₹10, ₹5, ₹2, ₹1) required.
+## 🔹 **Control Flow (If-Else) Programs**
 
-sideoftrngle.java
-➤ Input three sides of a triangle and classify it as Equilateral, Isosceles, or Scalene.
+| File | Problem |
+|------|---------|
+| `ifelse.java` | Find the **maximum between three numbers** |
+| `checkdgtalpha.java` | Check whether a character is an **alphabet**, **digit**, or **special character** |
+| `Noteprob.java` | Find the **minimum number of currency notes** (₹500 to ₹1) for a given amount |
+| `sideoftrngle.java` | Classify a triangle as **Equilateral**, **Isosceles**, or **Scalene** |
+| `elecunitchrg.java` | Calculate **electricity bill** based on unit slabs with 20% surcharge |
 
-elecunitchrg.java
-➤ Input electricity unit charge and calculate the bill with the following rules:
+---
 
-First 50 units: ₹0.50/unit
+## 🔹 **Loop 1 Problems**
 
-Next 100 units: ₹0.75/unit
+| File | Problem |
+|------|---------|
+| `loop1.java` | Find the **sum of the first and last digit** of a number |
+| `q2loop.java` | Calculate the **product of digits** |
+| `q3loop.java` | Check whether a number is a **palindrome** |
+| `q4loop.java` | Calculate the **power** of a number (a^b) |
+| `q5loop.java` | Print the **Fibonacci series** up to `n` terms |
 
-Next 100 units: ₹1.20/unit
+---
 
-Above 250 units: ₹1.50/unit
+## 🔹 **Loop 2 Problems**
 
-20% surcharge added to the total.
+| File | Problem |
+|------|---------|
+| `q6loop.java` | Find all **factors** of a given number |
+| `q7loop.java` | Check whether a number is a **prime number** |
+| `q8loop.java` | Print all **prime numbers from 1 to n** |
+| `q9loop.java` | Find all **prime factors** of a number |
 
-🔹 Loop 1 Problems
-loop1.java
-➤ Input a number and find the sum of its first and last digits using a loop.
+---
 
-q2loop.java
-➤ Input a number and calculate the product of its digits.
+## 🔹 **Loop 3 Problems**
 
-q3loop.java
-➤ Input a number and check if it is a palindrome using a loop.
+| File | Problem |
+|------|---------|
+| `q10loop.java` | Find **LCM (Lowest Common Multiple)** of two numbers |
+| `q11loop.java` | Find **HCF/GCD** of two numbers |
+| `q12loop.java` | Check whether a number is an **Armstrong number** |
+| `q13loop.java` | Print all **Armstrong numbers** from 1 to `n` |
 
-q4loop.java
-➤ Find the power of a number using a loop (e.g., a^b).
+---
 
-q5loop.java
-➤ Print the Fibonacci series up to n terms using a loop.
+## 🔹 **Loop 4 Problems**
+
+| File | Problem |
+|------|---------|
+| `q14loop.java` | Check whether a number is a **Perfect number** |
+| `q15loop.java` | Print all **Perfect numbers** from 1 to `n` |
+| `q16loop.java` | Check whether a number is a **Strong number** |
+| `q17loop.java` | Print all **Strong numbers** from 1 to `n` |
+
+---
 
